@@ -1,12 +1,6 @@
-- 👋 Hello World, I am Rajesh Nahak ...
-- 👀 I’m interested in ethical hacking , cyber security , bug bounty ...
-- 🌱 I’m currently learning python,c++,web devlopment ...
-- 💞️ I’m looking to collaborate on technical projects ...
-- 📫 How to reach me through - www.linkedin.com/in/rjsnhk
-- 💖 Thank You ...
 - uses: Platane/snk@v2
   with:
-    # github user name to read the contribution graph from (*required*)
+    # github user name to read the contribution graph from (**required**)
     # using action context var `github.repository_owner` or specified user
     github_user_name: ${{ github.repository_owner }}
 
@@ -19,3 +13,7 @@
     #  - color_dots:  Coma separated list of dots color.
     #                 The first one is 0 contribution, then it goes from the low contribution to the highest.
     #                 Exactly 5 colors are expected.
+    outputs: |
+      dist/github-snake.svg
+      dist/github-snake-dark.svg?palette=github-dark
+      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
