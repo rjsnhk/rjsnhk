@@ -20,10 +20,10 @@
   <a href="https://www.linkedin.com/in/rjsnhk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rjsnhk" height="30" width="40" /></a>
 
 
+<p align="left">
+<a><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rjsnhk&" alt="rjsnhk" /></a>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rjsnhk&" alt="rjsnhk" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rjsnhk&show_icons=true&locale=en" alt="rjsnhk" /></p>
+<a>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rjsnhk&show_icons=true&locale=en" alt="rjsnhk" /></a>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rjsnhk&show_icons=true&locale=en&layout=compact" alt="rjsnhk" /></p>
 
