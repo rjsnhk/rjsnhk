@@ -28,6 +28,9 @@
 <p><img align="center" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjsnhk&layout=compact&langs_count=7&theme=tokyonight"/></p>
 
 
-
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/rjsnhk/count.svg" />
+</p>
 
 ![](https://github.com/rjsnhk/rjsnhk/blob/output/github-contribution-grid-snake.svg)
