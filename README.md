@@ -23,10 +23,10 @@
 
 <p align="left">
 <a><img align="center" height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=rjsnhk&theme=tokyonight" alt="rjsnhk" /></a>
-<!-- <a>&nbsp;<img align="center" height="165em" src="https://github-readme-stats.vercel.app/api?username=rjsnhk&show_icons=true&locale=en&theme=tokyonight" alt="rjsnhk" /></a> -->
+<a>&nbsp;<img align="center" height="165em" src="https://github-readme-stats.vercel.app/api?username=rjsnhk&show_icons=true&locale=en&theme=tokyonight" alt="rjsnhk" /></a>
   
-<!-- <p><img align="center" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjsnhk&layout=compact&langs_count=7&theme=tokyonight"/></p> -->
+<p><img align="center" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjsnhk&layout=compact&langs_count=7&theme=tokyonight"/></p>
 
 
 
-![](https://github.com/rjsnhk/rjsnhk/blob/output/github-contribution-grid-snake.svg)
+<!-- ![](https://github.com/rjsnhk/rjsnhk/blob/output/github-contribution-grid-snake.svg) -->
