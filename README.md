@@ -26,6 +26,8 @@
 <a>&nbsp;<img align="center" height="165em" src="https://github-readme-stats.vercel.app/api?username=rjsnhk&show_icons=true&locale=en&theme=tokyonight" alt="rjsnhk" /></a>
   
 <p><img align="center" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjsnhk&layout=compact&langs_count=7&theme=tokyonight"/></p>
+ <i> A magical universe can be born from small ideas! ⭐️</i> <br> <br>
+ <img src="https://github.com/AlianeAmaral/AlianeAmaral/blob/main/Fire-Pixel.gif" width="220">
 
 
 ![](https://github.com/rjsnhk/rjsnhk/blob/output/github-contribution-grid-snake.svg)
