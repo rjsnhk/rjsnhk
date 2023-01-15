@@ -7,7 +7,7 @@
 
 
  <i> A magical universe can be born from small ideas! ⭐️</i><br><br>
- <img src="https://github.com/AlianeAmaral/AlianeAmaral/blob/main/Fire-Pixel.gif" width="400" height="250">
+ <img src="https://github.com/AlianeAmaral/AlianeAmaral/blob/main/Fire-Pixel.gif" width="400" height="255">
 
 
 <h3 align="left">🌐 Redes Sociais: <br></h3>
