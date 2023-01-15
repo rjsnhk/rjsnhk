@@ -10,7 +10,7 @@
  <img src="https://github.com/AlianeAmaral/AlianeAmaral/blob/main/Fire-Pixel.gif" width="400" height="255">
 
 
-<h3 align="left">🌐 Redes Sociais: <br></h3>
+<h3 align="left">🌐 Connect With Me : <br></h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/rjsnhk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Tap For Connect" height="30" width="40" /></a>
 
