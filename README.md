@@ -10,7 +10,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rjsnhk&label=Profile%20views&color=0e75b6&style=flat" alt="rjsnhk" /> </p>
 
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on React, DataStructure And Algorithm, Maths <br>👯 I’m looking to collaborate on Web DevelopMent <br>🤝 I’m looking for help with React, Node JS <br>🌱 I’m currently learning JavaScript <br>💬 Ask me about DSA<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
