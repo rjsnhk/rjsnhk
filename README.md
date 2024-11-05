@@ -10,7 +10,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rjsnhk&label=Profile%20views&color=0e75b6&style=flat" alt="rjsnhk" /> </p>
 
 # 💫 About Me:
-🔭 I’m currently working on React, DataStructure And Algorithm, Maths <br>👯 I’m looking to collaborate on Web DevelopMent <br>🤝 I’m looking for help with React, Node JS <br>🌱 I’m currently learning JavaScript <br>💬 Ask me about DSA<br>⚡ Fun fact
+🔭 I’m currently working on React, Data Structures and Algorithms, and Mathematics. <br>
+👯 I’m looking to collaborate on Web Development projects. <br>
+🤝 I’m looking for help with React and Node.js. <br>
+🌱 I’m currently learning JavaScript and expanding my full-stack skills. <br>
+💬 Ask me about Data Structures and Algorithms! <br>
+⚡ Fun fact: I can turn complex problems into code faster than I can solve a Rubik's cube!
+
 
 
 ## 🌐 Socials:
