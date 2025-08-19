@@ -15,9 +15,9 @@
 🔭 I’m currently working on Full Stack Web Development, Data Structures and Algorithms, and Mathematics. <br>
 👯 I’m looking to collaborate on Web Development projects. <br>
 🤝 I’m looking for help with React and Node.js. <br>
-🌱 I’m currently learning JavaScript and expanding my full-stack skills. <br>
+🌱 I’m currently learning DEVOPS, NEXT JS, GO, REDUX and expanding my full-stack skills. <br>
 💬 Ask me about Data Structures and Algorithms! <br>
-⚡ Fun fact: I can turn complex problems into code faster than I can solve a Rubik's cube!
+⚡ Fun fact: I can turn complex problems into code faster than I can solve a Rubik's Cube!
 
 
 
